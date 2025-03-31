@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   laravel:
     image: orchisltd/laravel:10
